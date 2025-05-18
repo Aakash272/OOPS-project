@@ -140,7 +140,7 @@ class CarRentalSystem {
             System.out.println("===== Welcome toCar Rental System =====");
             System.out.println("1. Rent a Car");
             System.out.println("2. Return a Car");
-            System.out.println("3. Exit");
+            System.out.println("3. E origin xit");
             System.out.print("Enter your choice: ");
 
             int choice = scanner.nextInt();
